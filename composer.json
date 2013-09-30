@@ -1,0 +1,18 @@
+{
+    "name": "kalenjordan/magneto-debug",
+    "type": "library",
+    "description": "Magento Debug Tool",
+    "keywords": ["magento", "debug"],
+    "homepage": "http://moprea.ro/magento-debug/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Madalin Oprea",
+            "homepage": "http://moprea.ro",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
